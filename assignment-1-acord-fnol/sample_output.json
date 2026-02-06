@@ -1,0 +1,24 @@
+
+{
+  "policyInformation": {
+    "policyNumber": "AUTO123456",
+    "insuredName": "John Doe",
+    "effectiveDate": "2025-01-01",
+    "expirationDate": "2026-01-01",
+    "insuranceCompany": "ABC Insurance"
+  },
+  "lossInformation": {
+    "dateOfLoss": "2025-02-01",
+    "timeOfLoss": "14:30",
+    "location": "New York",
+    "description": "Minor collision at intersection"
+  },
+  "vehicleInformation": {
+    "year": "2022",
+    "make": "Toyota",
+    "model": "Camry",
+    "vin": "",
+    "licensePlate": "NY1234"
+  },
+  "missingFields": ["vehicleInformation.vin"]
+}
