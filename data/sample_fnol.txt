@@ -1,0 +1,11 @@
+
+Policy Number: POL12345
+Policyholder Name: Rahul Sharma
+Incident Date: 10-01-2026
+Incident Time: 14:30
+Location: Mumbai
+Description: Minor accident, no injuries.
+Claim Type: Vehicle Damage
+Estimated Damage: 18000
+Attachments: Yes
+Initial Estimate: 20000
